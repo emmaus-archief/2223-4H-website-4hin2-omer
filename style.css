@@ -9,7 +9,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #bababa;    /* achtergrondkleur lichtgrijs */
+  background-color: #b3b3b3;    /* achtergrondkleur lichtgrijs */
   color: #000000;               /* tekstkleur donkergrijs */
 }  
 
@@ -70,7 +70,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: red;
+    color: black;
     text-decoration: none;
 }
 
@@ -146,13 +146,13 @@ nav li a.active {
   float:left;
 }
 .logo {
-  width:100%;
+  width: 70%;
 }
 
 /* */
 .shop {
   width: 700px;
-  height: 100px;
+  height: 500px;
   border: 1px solid black;
   margin-top: 50px;
 }
