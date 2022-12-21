@@ -158,6 +158,11 @@ nav li a.active {
   margin-top: 10px;
 }
 
+.beker {
+  width: 225px;
+  height: 200px
+}
+
 
 /* logo balk onderin pagina */
 .div4 {
@@ -177,10 +182,18 @@ nav li a.active {
 
 /* */
 .shop {
-  width: 700px;
-  height: 500px;
-  border: 1px solid black;
+  width: 200px;
+  height: 250px;
   margin-top: 50px;
+  margin: 10px;
+  border: 1px solid black;
+  float: right;
+}
+
+.tenue {
+  width: 210px;
+  height: 250px;
+  object-fit: cover;
 }
 
 .img2 {
